@@ -1,8 +1,2 @@
-console.log("have a good day have a good day")
-const input = prompt("")
-input
-if (input == "we") {
-    console.log(`${input}eeeeeeeeeeeeeeeeeee`)
-} else {
-    console.log("no fun")
-}
+console.log("hari this is your playground show m what javascript you know")
+
